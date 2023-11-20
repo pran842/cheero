@@ -1,16 +1,11 @@
-# cheero README
+# Cheero Documentation 
 
-This is the README for your extension "cheero". After writing up a brief description, we recommend including the following sections.
+Cheero is an open-source developer healthcare vs code extension that basically helps the developer keep their focus for long periods of time through some thorough entertainment in between such as some funny memes to refresh their mood. It has currently about 5 features, Daily Motivational Quotes, 2 to 5 Memes, Random Programming facts, interesting blog suggestions, especially for students, and reminders for 10-minute  
+naps, small walks, and water drinking. 
+## Features (Overall Product after complete development)
+There will be many features that will be very useful for building good habits for healthy development and our overall goal is to reduce the stress and improve the health-related habits of developers that many developers simply ignore (I was one of them though). 
 
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+Right now this will be the basic documentation of my project but afterwards I'll improve it as the development takes place.
 
 ## Requirements
 
@@ -18,7 +13,7 @@ If you have any requirements or dependencies, add a section describing those and
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+Include if your extension adds any VS Code settings through the `contributes. configuration` extension point.
 
 For example:
 
